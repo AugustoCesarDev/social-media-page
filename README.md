@@ -1,7 +1,7 @@
 <h1 align="center"> Social Media Page </h1>
 
 <p align="center">
-Projeto realizado na trilha explorer da Rocketseat. <br/>
+Projeto realizado na trilha Discover da Rocketseat. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Faça você também esse projeto clicando aqui</a>
 </p>
 
